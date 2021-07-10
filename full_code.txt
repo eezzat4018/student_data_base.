@@ -43,6 +43,10 @@ int no_stud;
 
 int main()
 {
+printf("===================================\n");
+        printf("   WELCOME TO OUR UNIVERSITY     \n");
+        printf("===================================\n");
+        printf("\n");
     struct node *head ;
      struct node *temp,*prev;
     int i,n;
